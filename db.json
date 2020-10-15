@@ -58,20 +58,6 @@
     "province": "Banten"
   },
   {
-    "name": "RS UMUM DAERAH DR. M. YUNUS BENGKULU",
-    "address": "JL. BHAYANGKARA, SIDOMULYO, KEC. GADING CEMP., KOTA BENGKULU, BENGKULU 38211",
-    "region": "KOTA BENGKULU, BENGKULU",
-    "phone": "(0736) 52004",
-    "province": "Bengkulu"
-  },
-  {
-    "name": "RS UMUM DAERAH ARGA MAKMUR",
-    "address": "JL. SITI KHODIJAH NO.8, KALI, ARMA JAYA, KABUPATEN BENGKULU UTARA, BENGKULU 38611",
-    "region": "BENGKULU UTARA, BENGKULU",
-    "phone": "(0737) 521118",
-    "province": "Bengkulu"
-  },
-  {
     "name": "RS UMUM DAERAH HASANUDDIN DAMRAH MANNA",
     "address": "JL. RAYA PADANG PANJANG, PAGAR DEWA, KOTA MANNA, KABUPATEN BENGKULU SELATAN, BENGKULU 38515",
     "region": "BENGKULU SELATAN, BENGKULU",
@@ -161,20 +147,6 @@
     "region": "JAKARTA BARAT, DKI JAKARTA",
     "phone": null,
     "province": "DKI Jakarta"
-  },
-  {
-    "name": "RS UMUM DAERAH PROF DR. H. ALOEI SABOE",
-    "address": "JL. PROFESOR DR. H. ALOEI SABOE, WONGKADITI, KOTA UTARA, KOTA GORONTALO, GORONTALO 96115",
-    "region": "GORONTALO, GORONTALO",
-    "phone": "0435 821924",
-    "province": "Gorontalo"
-  },
-  {
-    "name": "RS UMUM DAERAH RADEN MATTAHER JAMBI",
-    "address": "JL. LETJEN SUPRAPTO NO.31, TELANAIPURA, KEC. TELANAIPURA, KOTA JAMBI, JAMBI 36361",
-    "region": "MUARO JAMBI, JAMBI",
-    "phone": "(0741) 61692",
-    "province": "Jambi"
   },
   {
     "name": "RS PARU DR. H. A. ROTINSULU",
@@ -399,62 +371,6 @@
     "region": "BOJONEGORO, JAWA TIMUR",
     "phone": "(0353) 3412133",
     "province": "Jawa Timur"
-  },
-  {
-    "name": "RS UMUM DAERAH DR. SOEDARSO PONTIANAK",
-    "address": "JL. DR. SOEDARSO NO.1 PONTIANAK",
-    "region": "KOTA PONTIANAK, KALIMANTAN BARAT",
-    "phone": "(0561) 737701",
-    "province": "Kalimantan Barat"
-  },
-  {
-    "name": "RS UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG",
-    "address": "JL. PATIMURA DAN JL.YC OEVANG OERAY SINTANG",
-    "region": "SINTANG, KALIMANTAN BARAT",
-    "phone": "(0565) 21002",
-    "province": "Kalimantan Barat"
-  },
-  {
-    "name": "RS UMUM DAERAH DR. AGOESDJAM KETAPANG",
-    "address": "JL. PANJAITAN NO.51 KETAPANG",
-    "region": "KETAPANG, KALIMANTAN BARAT",
-    "phone": "(0534) 3037239",
-    "province": "Kalimantan Barat"
-  },
-  {
-    "name": "RS UMUM DAERAH DR. ABDUL AZIZ SINGKAWANG",
-    "address": "JL. DR SOETOMO NO. 28, SINGKAWANG",
-    "region": "KOTA SINGKAWANG, KALIMANTAN BARAT",
-    "phone": null,
-    "province": "Kalimantan Barat"
-  },
-  {
-    "name": "RS UMUM DAERAH ULIN BANJARMASIN",
-    "address": "JL. JEN A YANI NO.43, BANJARMASIN KALIMANTAN SELATAN",
-    "region": "KOTA BANJARMASIN, KALIMANTAN SELATAN",
-    "phone": "(0511) 3252180",
-    "province": "Kalimantan Selatan"
-  },
-  {
-    "name": "RS UMUM DAERAH H. BOEJASIN PELAIHARI",
-    "address": "JL. HADJI BOEJASIN NO.68 KAB. TANAH LAUT",
-    "region": "TANAH LAUT, KALIMANTAN SELATAN",
-    "phone": "(0512) 21083",
-    "province": "Kalimantan Selatan"
-  },
-  {
-    "name": "RS UMUM DAERAH DR DORIS SYLVANUS PALANGKA RAYA",
-    "address": "JL. TAMBUN BUNGAI NO.4 PALANGKARAYA",
-    "region": "MURUNG RAYA, KALIMANTAN TENGAH",
-    "phone": "(0536) 3224695",
-    "province": "Kalimantan Tengah"
-  },
-  {
-    "name": "RS UMUM DAERAH SULTAN IMANUDDIN",
-    "address": "JL. SUTAN SYAHRIR NO 17 PANGKALAN BUN",
-    "region": "KOTAWARINGIN BARAT, KALIMANTAN TENGAH",
-    "phone": "(0532) 21404",
-    "province": "Kalimantan Tengah"
   }
 ]
 
